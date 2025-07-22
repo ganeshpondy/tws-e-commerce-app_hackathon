@@ -53,6 +53,11 @@ EasyShop follows a three-tier architecture pattern:
 
 ## Setup & Initialization <br/>
 
+### 0. Clone this Repository
+```bash
+git clone <http path>
+```
+
 ### 1. Install Terraform
 * Install Terraform<br/>
 #### Linux & macOS
