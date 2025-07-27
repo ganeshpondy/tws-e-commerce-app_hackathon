@@ -769,7 +769,3 @@ upgrade filebeat helm chart and check in kibana’s UI if the app logs are strea
 
 ![Screenshot 2025-07-27 132300](https://github.com/user-attachments/assets/f21ed529-bd31-4f21-b947-d03b16127a09)
 
-![Screenshot 2025-07-27 132354](https://github.com/user-attachments/assets/ad277d30-bb53-4ebe-b30c-74fb0af8b5fd)
-
-
-
