@@ -761,3 +761,15 @@ upgrade filebeat helm chart and check in kibana’s UI if the app logs are strea
 ![Prometheus](./public/prometheus.JPG)
 
 ### WO! ooo!!! ...Your project is now deployed.
+
+### 📌 ArgoCD Kubernetes Flow
+![Screenshot 2025-07-27 132041](https://github.com/user-attachments/assets/15728531-c126-4df3-b556-50a9b41cb3e6)
+
+![Screenshot 2025-07-27 132233](https://github.com/user-attachments/assets/c68275e5-7ce4-439d-ba92-cf807e50dc57)
+
+![Screenshot 2025-07-27 132300](https://github.com/user-attachments/assets/f21ed529-bd31-4f21-b947-d03b16127a09)
+
+![Screenshot 2025-07-27 132354](https://github.com/user-attachments/assets/ad277d30-bb53-4ebe-b30c-74fb0af8b5fd)
+
+
+
