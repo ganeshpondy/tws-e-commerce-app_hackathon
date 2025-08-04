@@ -484,7 +484,7 @@ annotations:
         - /
         pathType: Prefix
 ```
-**Alertmanger:**
+**Alertmanager:**
 ```jsx
 ingressClassName: alb
 annotations:
